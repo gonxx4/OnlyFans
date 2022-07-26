@@ -1,1 +1,5 @@
-<?php header("Location: http://pornhub.com"); ?>
+<?php
+// index.php
+header("Location: https://www.yoursite.com/new_index.php");
+exit();
+?>
